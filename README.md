@@ -8,13 +8,6 @@ With this library, you can,
 2. Receive a CAN2.0 frame
 3. Set the masks and filters
 
-If you need a Dev board, plese try,
-
-* [CAN Bus Shield for Arduino](https://www.longan-labs.cc/1030016.html)
-* [CANBed V1](https://www.longan-labs.cc/1030008.html)
-* [CANBed M0](https://www.longan-labs.cc/1030014.html)
-* [OBD-II CAN Bus Dev Kit](https://www.longan-labs.cc/1030003.html)
-
 If you have any question, please feel free to contact [support@longan-labs.cc](support@longan-labs.cc)
 
 
